@@ -38,3 +38,23 @@ Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情�
 > 天气现在不错，但是它可能之后就变了
 
 - The weather is nice now, but it could change later.
+
+## case4: could have
+
+所有现在的事情变成过去，就用 could have done 了
+
+> 我太累了，我可以睡一周
+
+- I am so tired, I could sleep for a week
+
+> 我那时候太累了，自己可以睡一周
+
+- I was so tired, I could have slept for a week
+
+## case5: couldn't 不可能
+
+作为 present，couldn't 表示不可能，但是是假设的，就是没 try 过，如果尝试过了，那就用 can't
+
+> 我现在肯定不能跑 10km，因为我不够 fit
+
+- I couldn't run 10 km now, I am not fit enough.
