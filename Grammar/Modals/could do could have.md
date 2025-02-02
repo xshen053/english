@@ -9,6 +9,10 @@ Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情�
 - we could go to the cinema (less sure)
 - we can go the the cinema
 
+> When you go to Paris next month,
+
+- you could stay with Sarah.
+
 ## case2: actions not realistic
 
 > 我太累了，我可以睡一周
@@ -21,8 +25,11 @@ Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情�
 
 ## case3: something is possible now or in the future
 
+区分一下 case1，case 1 是一些 action，而 case 3 更像是 fact
+
 > 这个故事可能是真的，但我不认为是
-> The story could be true, but I don't think it is.
+
+- The story could be true, but I don't think it is.
 
 > 我不知道 Lisa 什么时候来。她可能随时可以来
 
