@@ -1,4 +1,4 @@
-# 一文说明白 could
+# Unit27 could do could have
 
 Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情况用 could
 
@@ -63,6 +63,22 @@ Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情�
 
 ## 口诀
 
-可能行动或事实现在和未来，或者根本不可能（但是是假设的）
+1️⃣ Case 1: 可能行动 / 未来建议
+今晚做啥好？我们 could 去看电影！
+下月去巴黎，你 could 住在 Sarah 家里。
 
-如果事情变过去，则用 could have 来替代
+2️⃣ Case 2: 不真实的假设
+累成狗，我 could 睡上一周。
+这地方太美，我 could 一辈子待在这里。
+
+3️⃣ Case 3: 事实可能，现或未来
+故事可能是真的，但我不太信。
+Lisa 随时都可能到。天气随时会变脸。
+
+4️⃣ Case 4: 过去可能，could have done
+我当时累得 could have slept 一周，
+但错过了，机会不再有。
+
+5️⃣ Case 5: couldn’t 假设不可能
+我现在 couldn’t 跑 10 公里，我体能不够。
+尝试过， can’t 来表达，没问题！你会懂。
