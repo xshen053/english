@@ -53,8 +53,16 @@ Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情�
 
 ## case5: couldn't 不可能
 
-作为 present，couldn't 表示不可能，但是是假设的，就是没 try 过，如果尝试过了，那就用 can't
+作为 present，couldn't 表示不可能，但是是假设的，就是没 try 过，
+
+如果尝试过了，那就用 can't
 
 > 我现在肯定不能跑 10km，因为我不够 fit
 
 - I couldn't run 10 km now, I am not fit enough.
+
+## 口诀
+
+可能行动或事实现在和未来，或者根本不可能（但是是假设的）
+
+如果事情变过去，则用 could have 来替代
