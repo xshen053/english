@@ -61,24 +61,10 @@ Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情�
 
 - I couldn't run 10 km now, I am not fit enough.
 
-## 口诀
+## 故事
 
-1️⃣ Case 1: 可能行动 / 未来建议
-今晚做啥好？我们 could 去看电影！
-下月去巴黎，你 could 住在 Sarah 家里。
-
-2️⃣ Case 2: 不真实的假设
-累成狗，我 could 睡上一周。
-这地方太美，我 could 一辈子待在这里。
-
-3️⃣ Case 3: 事实可能，现或未来
-故事可能是真的，但我不太信。
-Lisa 随时都可能到。天气随时会变脸。
-
-4️⃣ Case 4: 过去可能，could have done
-我当时累得 could have slept 一周，
-但错过了，机会不再有。
-
-5️⃣ Case 5: couldn’t 假设不可能
-我现在 couldn’t 跑 10 公里，我体能不够。
-尝试过， can’t 来表达，没问题！你会懂。
+- 我问 Alice，今晚去哪，她说，我们可以去电影院？could
+- 但我感觉我太累了，我可以睡一周 could
+- 我们还在等 Lisa，不知道她什么时候来，可以随时到达 could
+- Alice 说她想起当时在旅游，也很累，可以睡一周 could have slept
+- 我和 Alice 说我现在肯定不能跑 10km，太累了 couldn't

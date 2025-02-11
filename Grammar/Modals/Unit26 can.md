@@ -59,3 +59,11 @@ example
 - Tom might be able to come tomorrow
 
 ## 口诀
+
+造句
+
+- I can do that
+- I could give a very good answer when I was young
+- I was at the theartre and I couldn't(was not able to) see actors on the stage
+- He played very well but I was able to beat him
+- I haven't been able to sleep recently
