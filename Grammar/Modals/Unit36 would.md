@@ -12,7 +12,7 @@
 
 > 我如果有 Lisa 电话的话，会给她打电话
 
-- I would call Lisa if I have her phone number.
+- I would call Lisa if I had her phone number.
 
 ## case2: things that happened regularly in the past
 
