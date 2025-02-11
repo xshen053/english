@@ -37,7 +37,9 @@ example
 > Jack 年轻的时候是一个杰出的网球玩家。他可以击败任何人
 
 - Jack was an excellent tennis player when he was younger. He could beat anybody. (= he was good enough to beat anybody, he had the ability)
-  > Jack 和 Andy 昨天比赛了。Andy 玩的很好，但是 Jack 还是想办法打败了他
+
+> Jack 和 Andy 昨天比赛了。Andy 玩的很好，但是 Jack 还是想办法打败了他
+
 - Jack and Andy played a match yesterday. Andy played well, but Jack managed to beat him. (= he succeeded in beating him this time)
 
 ## 其他时态 & can 的局限性
