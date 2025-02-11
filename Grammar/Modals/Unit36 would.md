@@ -26,9 +26,8 @@
 
 - Whenever Richard was angry, he would(used to) walk out of the room.
 
-## 口诀
+## 故事
 
-幻想一些事情，过去经常发生，过去常常
-
-幻想过去事已非，would 带你回从前。  
-过去常常做的事，would 来帮你表演！
+- 我和 May 说，能买个新车是不错的，但是我没法负担
+- 记得之前在学校的时候，我天天会坐车去学校
+- 当我曾经无聊的时候，我经常会趴在窗户上看外面
