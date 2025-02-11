@@ -26,4 +26,6 @@
 
 - Whenever Richard was angry, he would(used to) walk out of the room.
 
-过去尝尝
+## 口诀
+
+幻想一些事情，过去经常发生，过去常常
