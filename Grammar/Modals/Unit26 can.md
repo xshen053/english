@@ -62,8 +62,8 @@ example
 
 造句
 
-- I can do that
-- I could give a very good answer when I was young
-- I was at the theartre and I couldn't(was not able to) see actors on the stage
-- He played very well but I was able to beat him
-- I haven't been able to sleep recently
+- 我可以做到 can
+- 我当时在剧院，看不到台上的演员 couldn't
+- 他打得不错，但我把他打败了 was able to
+- 年轻的时候我可以给很好的回答 could
+- 我最近不能睡的很好 haven't been able to
