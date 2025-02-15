@@ -1,6 +1,6 @@
 # Unit27 could do could have
 
-Unit26 讲了 could 可以作为 can 的 past，但其实还有另外一些情况用 could
+Unit26 讲了 could 可以作为 can 的 past, 但其实还有另外一些情况用 could
 
 ## case1: possible actions now or in the future, 主要是 suggestions
 
